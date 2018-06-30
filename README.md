@@ -1,7 +1,7 @@
 # League ping plotter
 Usage: py lol_ping_plot.py [server] - plot server ping
 Currently supported servers: EUW, NA, OCE, EUNE, LAN
-##Dependencies:
+## Dependencies:
 matplotlib : 
 You can install it under mac or windows with:
 pip install matplotlib
